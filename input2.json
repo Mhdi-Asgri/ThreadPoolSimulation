@@ -1,0 +1,16 @@
+{
+    "num_threads": 3,
+    "queue_size": 5,
+    "tasks": [
+        {"task_id": 1, "arrival_time": 0, "execution_time": 2},
+        {"task_id": 2, "arrival_time": 1, "execution_time": 3},
+        {"task_id": 3, "arrival_time": 2, "execution_time": 1},
+        {"task_id": 4, "arrival_time": 3, "execution_time": 4},
+        {"task_id": 5, "arrival_time": 4, "execution_time": 2},
+        {"task_id": 6, "arrival_time": 5, "execution_time": 1},
+        {"task_id": 7, "arrival_time": 6, "execution_time": 3},
+        {"task_id": 8, "arrival_time": 7, "execution_time": 2},
+        {"task_id": 9, "arrival_time": 8, "execution_time": 1},
+        {"task_id": 10, "arrival_time": 9, "execution_time": 2}
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "num_threads": 4,
+    "queue_size": 10,
+    "tasks": [
+        {"task_id": 1, "arrival_time": 0, "execution_time": 5},
+        {"task_id": 2, "arrival_time": 1, "execution_time": 3},
+        {"task_id": 3, "arrival_time": 2, "execution_time": 2},
+        {"task_id": 4, "arrival_time": 3, "execution_time": 4},
+        {"task_id": 5, "arrival_time": 4, "execution_time": 1}
+    ]
+}

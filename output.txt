@@ -1,0 +1,19 @@
+=== Simulation Report ===
+Task 1 arrived at 03:06:31
+Thread-1 allocated to Task 1 at 03:06:31
+Task 2 arrived at 03:06:32
+Thread-2 allocated to Task 2 at 03:06:32
+Task 3 arrived at 03:06:33
+Task 2 started at 03:06:32 and completed at 03:06:35
+Thread-2 allocated to Task 3 at 03:06:35
+Task 4 arrived at 03:06:36
+Task 1 started at 03:06:31 and completed at 03:06:36
+Thread-1 allocated to Task 4 at 03:06:36
+Task 4 started at 03:06:36 and completed at 03:06:37
+Task 3 started at 03:06:35 and completed at 03:06:37
+
+=== Simulation Metrics ===
+Total simulation time: 00:00:06
+Total tasks completed: 4
+Number of thread allocations: 4
+Number of unused threads: 0
